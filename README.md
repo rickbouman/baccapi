@@ -1,4 +1,9 @@
-baccapi
+BaccaPI
 =======
 
-Home automation and security for Raspberry PI
+Home automation and security for Raspberry PI. 
+
+Code
+```
+   test
+```
