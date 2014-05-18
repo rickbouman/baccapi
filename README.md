@@ -2,6 +2,7 @@ BaccaPI
 =======
 
 Home automation and security for Raspberry PI.
+Find the full project on http://www.baccapi.nl
 
 Create a full home automation and security system with your Raspberry PI. 
 Ready for use with:
