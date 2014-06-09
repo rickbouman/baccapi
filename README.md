@@ -13,3 +13,8 @@ Import BaccaPI on your Raspberry PI.
 ```
    git clone https://github.com/rickbouman/baccapi
 ```
+
+Run installation script.
+```
+   ./install.sh
+```
